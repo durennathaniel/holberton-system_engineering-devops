@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -pla . .. /boot | grep -v /
+ls -la . .. /boot
